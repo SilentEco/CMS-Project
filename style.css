@@ -1,0 +1,26 @@
+/*
+Theme Name: Portfolio-theme
+Text Domain: Portfolio-theme
+*/
+html {
+  margin: 0px;
+  padding: 0px;
+}
+.red-bg {
+  background: gray;
+}
+
+.gobakgrund {
+  height: 10vh;
+  background: linear-gradient(white, gray);
+  border-bottom: black solid 10px;
+}
+
+footer {
+  font-size: small;
+  text-align: center;
+}
+
+#button1 {
+  margin-top: 20px;
+}
